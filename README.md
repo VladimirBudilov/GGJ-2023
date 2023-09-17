@@ -6,8 +6,6 @@ I participated in the Global Game Jam 2023 and created a small 2D arcade game wi
 - Game Genre: 2D Arcade
 - Objective: Avoid rocks and collect water as you navigate through the game.
 
-This project reflects my ability to work independently, showcasing my coding skills and creative use of AI-generated art.
-
 Feel free to explore and enjoy the game!
 
 https://vladimirbudilov.itch.io/rootrocks
